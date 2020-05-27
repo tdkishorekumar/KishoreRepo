@@ -1,0 +1,7 @@
+C:\Users\kd112484\Desktop\Search Fight\SearchFight-master\SearchFight-master\bin\Debug\Configuration.xml
+C:\Users\kd112484\Desktop\Search Fight\SearchFight-master\SearchFight-master\bin\Debug\SearchFight.exe.config
+C:\Users\kd112484\Desktop\Search Fight\SearchFight-master\SearchFight-master\bin\Debug\SearchFight.exe
+C:\Users\kd112484\Desktop\Search Fight\SearchFight-master\SearchFight-master\bin\Debug\SearchFight.pdb
+C:\Users\kd112484\Desktop\Search Fight\SearchFight-master\SearchFight-master\obj\Debug\SearchFight.csproj.CoreCompileInputs.cache
+C:\Users\kd112484\Desktop\Search Fight\SearchFight-master\SearchFight-master\obj\Debug\SearchFight.exe
+C:\Users\kd112484\Desktop\Search Fight\SearchFight-master\SearchFight-master\obj\Debug\SearchFight.pdb
